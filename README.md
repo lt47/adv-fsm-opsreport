@@ -1,6 +1,6 @@
-#Inspections Report Template using Plotly Dash
+# Inspections Report Template using Plotly Dash
 
-Features:
+> Features:
 - Scrolling ticker
 - Barcharts
 - Datatable
