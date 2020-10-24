@@ -17,7 +17,7 @@ import random
 
 
 
-external_stylesheets = ['https://codepen.io/lt47/pen/MWyamZe.css']
+external_stylesheets = ['https://lt47.github.io/adv-fsm-opsreport/plotlystyles.css']
 #external_scripts = []
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
